@@ -2,6 +2,8 @@
 
 Listo is a modern, high-performance To-Do application designed with a focus on **visual excellence** and **user experience**. Built with Vanilla JavaScript and Vite, it features a stunning glassmorphic interface, smooth animations, and intuitive interaction patterns.
 
+Live demo: [https://listo-application.vercel.app/](https://listo-application.vercel.app/)
+
 ![Listo Preview](public/Images/preview.jpg)
 
 ## ✨ Features
